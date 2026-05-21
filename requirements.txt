@@ -3,3 +3,4 @@ Flask==2.3.3
 yt-dlp==2024.12.23
 youtube-search-python==1.6.5
 requests==2.31.0
+gunicorn==21.2.0
